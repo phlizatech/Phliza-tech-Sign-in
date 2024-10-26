@@ -1,0 +1,67 @@
+body{
+    background-color: #eaffff;
+}
+header{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: none;
+    margin-top: 4em;
+}
+#fill{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 8px;
+    margin-top: 3em;
+}
+input{
+    height: 2em;
+    border-color: black;
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    background-color: #eaffff;
+}
+r{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: none;
+}
+rem{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 4em;
+    font-size: 10px;
+}
+don{
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    gap: 
+}
+button{
+    width: 15em;
+    height: 2em;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background-color: #6aa2ff    ;
+    border-color: black;
+    border: solid;
+    border-width: 1px;
+    border-radius: 2px;
+    color: white;
+}
+register{
+margin-top: 3em;
+    font-size: 10px;
+}
+log{
+     align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 2em;   
+}
